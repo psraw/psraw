@@ -1,7 +1,16 @@
-# Hi 👋, I'm Menta
+<h1 align='center' >
+  Hi, I'm MentaX
+</h1>
 
+<br/>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=psraw&show_icons=true&theme=nightowl&locale=en" alt="psraw" /></p>
-
-
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=psraw&row=3&column=4&margin-w=15&margin-h=15&theme=dracula&no-bg=true&no-frame=true" alt="psraw" /></a></p>
+<p align='center'>
+  <img align="center" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=psraw&layout=compact&theme=react&hide_border=true&bg_color=2E3440&title_color=F85D7F&icon_color=F8D866" alt="psraw's github stats"/>
+  </a>
+  <a href="https://github.com/psraw/">
+  <img align="center" height="140px" src="https://github-readme-stats.vercel.app/api?username=psraw&hide=issues&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=2E3440&title_color=F85D7F&icon_color=F8D866" alt="psraw's github stats" />
+  </a><br/><br/>
+  <a href="https://github.com/psraw/">
+  <img align="center" width="640px" src="https://github-readme-streak-stats.herokuapp.com/?user=psraw&theme=react&fire=FFF&ring=F85D7F&currStreakLabel=F85D7F&sideNums=F85D7F&currStreakNum=F85D7F&sideLabels=FFF&hide_border=true&background=2E3440" alt="psraw's streak stats"/>
+  </a><br/><br/>
+</p>
